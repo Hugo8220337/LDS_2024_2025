@@ -1,5 +1,4 @@
 <h1 align="center">Practical Work on Laboratório de Desenvolvimento de Software (Software Development Laboratory)</h1>
-<h2 align="center">Leaflings</h2>
 
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2024/2025&color=sucess"/>
@@ -8,6 +7,9 @@
 </p>
 
 ---
+
+<h1>Leaflings</h1>
+<p>Web API, Aplicação Web e Aplicação mobile para uma plataforma que tenta fazer tracking do progresso de cuidados de plantas</p>
 
 ## Languages
 <p align="left"> 
